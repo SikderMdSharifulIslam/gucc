@@ -2,7 +2,7 @@
 Green University Computer Club (GUCC) is a flagship Club of Dept. of CSE, GUB. Currently, I'm serving the club from the position of Information Secretary & Lead of Information & Publication Unit. This project is still under-developed becasue I've planned for a website which will showcase maximum activities of GUCC and offer the options to get help from this website to users or members of GUCC. Already I've build severel sections which is shown below. 
 
 ## 🛠 Technology Used
-HTML, Vanilla CSS, Tailwind CSS, Daisy UI, JavaScript, PHP, MySQL
+HTML, Vanilla CSS, Tailwind CSS, Daisy UI, JavaScript, PHP, MySQL, Database
 
 ## Features
 
@@ -65,3 +65,7 @@ HTML, Vanilla CSS, Tailwind CSS, Daisy UI, JavaScript, PHP, MySQL
 ## See User List from Admin Dashbaord
 
 ![user_list](images/project_ui/user_list.png)
+
+## Database
+
+![database](images/project_ui/db.png)
